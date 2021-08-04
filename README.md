@@ -11,8 +11,8 @@ https://github.com/MuhammadFathurNurRizky/Django-Backend-Oauth/
 # the technology
 if you wan to know more about django and django-rest-framework u can follow this site:
 
-- [Django Documentation](https://www.djangoproject.com/) - learn about Next.js features and API.
-- [Learn django-rest-framework](https://www.django-rest-framework.org/) - an interactive Next.js tutorial.
+- [Django Documentation](https://www.djangoproject.com/) - learn about Django features.
+- [Learn django-rest-framework](https://www.django-rest-framework.org/) - an interactive API with django-rest-framework tutorial.
 
 # help
 if you need help you can comment on this repository and i will reply. enjoy :)
